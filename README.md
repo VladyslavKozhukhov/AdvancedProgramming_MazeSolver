@@ -1,0 +1,2 @@
+# AdvancedProgramming_MazeSolver
+Multithreading,dynamic linking
