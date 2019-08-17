@@ -1,0 +1,5 @@
+Our game is interesting as it is based upon a known game which was invented at 1874 (wikipedia) and has many variations.
+Moreover, for larger versions of the n-puzzle, finding a solution is easy, but the problem of finding the shortest solution is NP-hard.
+We have created 2 different algorithms which try to solve 2 games. The algorithms results were intersting: 
+The first algorithm is a random algorithm which randomly chooses a swapping direction. We have noticed that for some puzzles the algorithm can win the game with a large number of steps (witnessed games with 5 - 700k steps) and for some also can get good results (when running the match a few times).
+The second algorithm uses A* algorithm in order to solve the puzzle. For one of the games this algorithm solves the puzzle within 3 steps.

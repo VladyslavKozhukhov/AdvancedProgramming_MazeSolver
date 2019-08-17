@@ -1,0 +1,10 @@
+Another working maze!!
+MaxSteps = 50
+Rows = 6
+Cols = 6
+######
+# @  #
+#    #
+#  $ #
+#    #
+######

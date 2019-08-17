@@ -1,0 +1,3 @@
+Bad maze file header:
+expected in line 4 - Cols = <num>
+got: Cols = 10 2

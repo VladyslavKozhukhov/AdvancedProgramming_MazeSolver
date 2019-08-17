@@ -1,0 +1,16 @@
+maze1:
+Succeeded in 10 steps
+maze2:
+Succeeded in 6 steps
+maze3:
+Bad maze file header:
+expected in line 2 - MaxSteps = <num>
+got: Rows = 6
+expected in line 3 - Rows = <num>
+got: Cols = 4
+expected in line 4 - Cols = <num>
+got: ######
+maze4:
+Bad maze in maze file:
+More than one @ in maze
+Wrong character in maze: . in row 5, col 6
